@@ -1,4 +1,4 @@
-package examples;
+package pl.raubuc.examples;
 
 public class ForExample {
     public static void main(String[] args) {

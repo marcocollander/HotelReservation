@@ -1,4 +1,4 @@
-package tasks;
+package pl.raubuc.tasks;
 
 public class MinInArray {
     public static void main(String[] args) {

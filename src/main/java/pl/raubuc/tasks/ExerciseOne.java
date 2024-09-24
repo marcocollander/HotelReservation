@@ -1,4 +1,4 @@
-package tasks;
+package pl.raubuc.tasks;
 /*
 *  Stwórz program, który wylosuje liczbę z zakresu od 0 do 10, a
 *  następnie zapyta użytkownika o jej zgadnięcie. Jeśli użytkownik

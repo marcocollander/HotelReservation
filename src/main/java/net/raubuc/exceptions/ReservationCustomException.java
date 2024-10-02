@@ -1,7 +1,7 @@
 package net.raubuc.exceptions;
 
-abstract public class ReservationCustomException extends RuntimeException {
-    abstract public int getCode();
+public abstract class ReservationCustomException extends RuntimeException {
+    public abstract int getCode();
 
     public ReservationCustomException(String message) {
         super(message);

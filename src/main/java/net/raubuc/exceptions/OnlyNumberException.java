@@ -7,6 +7,7 @@ public class OnlyNumberException extends ReservationCustomException {
         super(message);
     }
 
+    @Override
     public int getCode() {
         return code;
     }

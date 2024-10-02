@@ -7,6 +7,7 @@ public class WrongOptionException extends ReservationCustomException {
         super(message);
     }
 
+    @Override
     public int getCode() {
         return code;
     }
